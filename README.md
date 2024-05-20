@@ -7,4 +7,5 @@ These are two projects showcasing time series manipulations using Python. These 
 <img width="1369" alt="Screenshot 2024-05-20 at 19 08 30" src="https://github.com/gladysbabs/Time-Series/assets/162020572/05ae4208-88ea-4658-8974-4cf96f3bb07b">
 
 **Link to the interactive dashboard uploaded to Tableau public:**
+
 https://public.tableau.com/views/ChicagoCrimeDashboard_17162218586840/MainDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
